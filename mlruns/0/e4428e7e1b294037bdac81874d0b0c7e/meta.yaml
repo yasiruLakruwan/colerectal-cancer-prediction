@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/colorectal%20cancer%20prediction/mlruns/0/e4428e7e1b294037bdac81874d0b0c7e/artifacts
+end_time: 1759579281243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4428e7e1b294037bdac81874d0b0c7e
+run_name: sincere-crow-609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759579268177
+status: 3
+tags: []
+user_id: YASI
