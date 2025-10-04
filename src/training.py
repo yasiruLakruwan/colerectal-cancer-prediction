@@ -29,6 +29,7 @@ class ModelTraining:
             self.y_test = joblib.load(os.path.join(self.processed_data_path,"y_test.pkl"))
 
             logger.info("Data loaded for model..")
+            
         except Exception as e:
             logger.error(f"Error wile loading data for model {e}")
             raise CustomExeption(f"Faild to load data",e)
