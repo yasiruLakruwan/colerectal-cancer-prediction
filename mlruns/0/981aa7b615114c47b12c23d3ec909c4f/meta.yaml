@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/colorectal%20cancer%20prediction/mlruns/0/981aa7b615114c47b12c23d3ec909c4f/artifacts
+end_time: 1759570356048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 981aa7b615114c47b12c23d3ec909c4f
+run_name: secretive-foal-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759570343249
+status: 3
+tags: []
+user_id: YASI
